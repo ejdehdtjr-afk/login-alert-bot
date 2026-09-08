@@ -39,6 +39,12 @@ flowchart LR
 
 ## 기능 구현 화면 및 증적
 
+### 관제 페이지 화면
+<img width="845" height="771" alt="image" src="https://github.com/user-attachments/assets/88e2b47a-ec0a-4cf8-b861-805d6bfe22c6" />
+
+### n8n 토폴로지 화면
+<img width="956" height="662" alt="image" src="https://github.com/user-attachments/assets/f569cd68-1512-41e7-98f0-ce7e7779602b" />
+
 ### A3 — 전송 실패 처리
 
 n8n 중지 상태에서 전송 오류를 안내하며 주소나 예외 상세를 출력하지 않습니다.
